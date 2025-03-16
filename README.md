@@ -1,6 +1,7 @@
 # **YouTube Global Statistics Analytics**
 
 ## **Overview**
+
 **A Data Visualization, interactive web application project using Plotly, Preswald, Python, and Pandas** to analyze **global YouTube trends** across **categories, creators, and countries**. Enabling **dynamic exploration** through **interactive insights** using **Global YouTube Statistics 2023** dataset.
 ---
 
@@ -11,7 +12,8 @@ The application includes **six interactive visualizations** and **a slider-based
 - **Email:** spati@gmu.edu  
 - **University:** George Mason University  
 - **Dataset:** [Global YouTube Statistics 2023](https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023?resource=download)  
-
+- **Live Deployed Preview Link:** [Preview](https://my-example-project-514006-3h0rzgww-ndjz2ws6la-ue.a.run.app) 
+- **Demo Video Link:** [Video](https://drive.google.com/file/d/1dIltYoPJXD8v64u2FJ1dohb0a2Vnw4o0/view?usp=sharing) 
 ---
 
 ## **Features**
