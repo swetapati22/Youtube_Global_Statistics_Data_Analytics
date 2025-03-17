@@ -119,7 +119,7 @@ This section highlights six key **visualizations** from the YouTube Global Stati
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        <img src="img/preswald_p5.png" alt="Subscribers vs Uploads Growth" class="img-fluid rounded z-depth-1">
+        <img src="img/preswald_p6.png" alt="Subscribers vs Uploads Growth" class="img-fluid rounded z-depth-1">
     </div>
 </div>
 
